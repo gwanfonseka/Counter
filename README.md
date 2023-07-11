@@ -3,6 +3,21 @@
 - Clone the project
 - Run `npm install` to install the dependancies
 
+## Available Dependancies
+
+- @testing-library/jest-dom
+- @testing-library/react
+- @testing-library/user-event
+- @types/jest
+- @types/node
+- @types/react
+- @types/react-dom
+- react
+- react-dom
+- react-scripts
+- typescript
+- web-vitals
+
 ## Available Scripts
 
 ### `npm start`
